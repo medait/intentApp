@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="bjr">Hello</string>
+    <string name="text_view">Saisi vos information</string>
+    <string name="text2_view">mot de passe</string>
+    <string name="envyr">Login</string>
+    <string name="text3_view">nom d\'utilisateur</string>
+    <string name="text_view3">vos informations:</string>
+</resources>
